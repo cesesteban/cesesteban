@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hola 👋, mi nombre es Esteban
+#### Soy Full Stack Web Developer
+![Soy Full Stack Web Developer](https://www.nasihatler.com/wp-content/uploads/2019/09/Nasihatler-Telefon-Arkaplan-Hd-052.jpg)
 
-<!--
-**cesesteban/cesesteban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apasionado por la tecnología, soy una persona productiva y vivo en constante aprendizaje.
 
-Here are some ideas to get you started:
+Actualmente estoy trabajando en un proyecto de e-commerce con metodologías Ágiles(SCRUM) y PERN Stack (postgreSQL, ExpressJS, ReactJS y NodeJS), además de incluir Redux y Sequelize.
+https://ecommerce-ft06-g08.herokuapp.com/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mi primer aplicación en React --> https://cesesteban.github.io/my-cripto-app/
+
+Habilidades: NODE JS / REACT /REDUX/ JS /EXPRESS /SQLITE /MYSQL /SEQUELIZE  /HTML / CSS
+
+
+
