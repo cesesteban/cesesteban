@@ -3,8 +3,9 @@
 
 Apasionado por la tecnología, soy una persona productiva y vivo en constante aprendizaje.
 
-Actualmente estoy trabajando en un proyecto de e-commerce con metodologías Ágiles(SCRUM) y PERN Stack (postgreSQL, ExpressJS, ReactJS y NodeJS), además de incluir Redux y Sequelize.
-https://ecommerce-ft06-g08.herokuapp.com/
+E-commerce con metodologías Ágiles(SCRUM) y PERN Stack (postgreSQL, ExpressJS, ReactJS y NodeJS), además de incluir Redux y Sequelize.
+Equipo Bootcamp Full stack web developer en Henry
+https://wultur.herokuapp.com/
 
 Mi primer aplicación en React --> https://cesesteban.github.io/my-cripto-app/
 
