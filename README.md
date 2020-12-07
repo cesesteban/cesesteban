@@ -3,7 +3,7 @@
 
 Apasionado por la tecnología, soy una persona productiva y vivo en constante aprendizaje.
 
-E-commerce con metodologías Ágiles(SCRUM) y PERN Stack (postgreSQL, ExpressJS, ReactJS y NodeJS), además de incluir Redux y Sequelize.
+E-commerce desarrollado con metodologías Ágiles(SCRUM) y PERN Stack (postgreSQL, ExpressJS, ReactJS y NodeJS).
 Equipo Bootcamp Full stack web developer en Henry
 https://wultur.herokuapp.com/
 
