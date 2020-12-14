@@ -7,7 +7,7 @@ E-commerce desarrollado con metodologías Ágiles(SCRUM) y PERN Stack (postgreSQ
 Equipo Bootcamp Full stack web developer en Henry
 https://wultur.herokuapp.com/
 
-Mi primer aplicación en React --> https://cesesteban.github.io/my-cripto-app/
+Mi primer aplicación en React --> https://cesesteban.github.io/my-crypto-app/
 
 Habilidades: NODE JS / REACT /REDUX/ JS /EXPRESS /SQLITE /MYSQL /SEQUELIZE  /HTML / CSS
 
