@@ -3,13 +3,18 @@
 
 Apasionado por la tecnología, soy una persona productiva y vivo en constante aprendizaje.
 
-E-commerce desarrollado con metodologías Ágiles(SCRUM) y PERN Stack (postgreSQL, ExpressJS, ReactJS y NodeJS).
+E-commerce desarrollado con metodologías agiles(SCRUM) y PERN Stack, venta de cursos.
 Equipo Bootcamp Full stack web developer en Henry
 https://wultur.herokuapp.com/
 
-Mi primer aplicación en React --> https://cesesteban.github.io/my-crypto-app/
+E-commerce desarrollado con metodologías agiles(SCRUM) y PERN Stack, Venta de alimentos.
+Equipo Bootcamp Full stack web developer en Henry
+https://ec-webft11-g10.vercel.app/
 
-Habilidades: NODE JS / REACT /REDUX/ JS /EXPRESS /SQLITE /MYSQL /SEQUELIZE  /HTML / CSS
+Aplicación React, cotizacion en tiempo de real de algunas Criptomonedas --> https://cesesteban.github.io/my-crypto-app/
 
-![Soy Full Stack Web Developer](https://www.nasihatler.com/wp-content/uploads/2019/09/Nasihatler-Telefon-Arkaplan-Hd-052.jpg)
+Aplicación React, e-shop minimalista, se realiza el checkout al WhatsApp --> https://cesesteban.github.io/ginkgo-app/
+
+Habilidades: NODE JS / REACT /REDUX/ JS /EXPRESS /SQLITE /MYSQL /SEQUELIZE  /HTML / CSS / PYTHON / PANDAS / MATPLOTLIB
+
 
