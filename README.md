@@ -3,10 +3,11 @@
 
 Apasionado por la tecnología, soy una persona productiva y vivo en constante aprendizaje.
 
+E-commerce desarrollado con metodologías agiles(SCRUM) y PERN Stack, venta de cursos.
+
 ![image](https://user-images.githubusercontent.com/61483278/122298695-7584f080-ced3-11eb-88e6-eec0fec7f7d7.png)
 
 
-E-commerce desarrollado con metodologías agiles(SCRUM) y PERN Stack, venta de cursos.
 Equipo Bootcamp Full stack web developer en Henry
 https://wultur.herokuapp.com/
 
