@@ -25,7 +25,7 @@ Aplicación React, cotizacion en tiempo de real de algunas Criptomonedas --> htt
 ![image](https://user-images.githubusercontent.com/61483278/122298676-6f8f0f80-ced3-11eb-9fc3-8b0c62dc7d2c.png)
 
 *******************************************************************************************************************************************
-Aplicación React, e-shop minimalista, se realiza el checkout al WhatsApp --> https://cesesteban.github.io/ginkgo-app/
+Aplicación React, e-shop minimalista, se realiza el checkout al WhatsApp --> http://localhost:3000/DISTRIPOP
 
 ![image](https://user-images.githubusercontent.com/61483278/122298647-6605a780-ced3-11eb-88c9-c762adda1b1f.png)
 
