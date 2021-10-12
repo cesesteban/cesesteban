@@ -1,5 +1,5 @@
-### Hola 👋, mi nombre es Esteban
-#### Soy Full Stack Web Developer
+### Hi 👋, mi name is Esteban
+#### I'm Full Stack Web Developer
 *******************************************************************************************************************************************
 #### API MATBA DATA REAL TIME FREE ACCESS NODE HEROKUAPP
 https://github.com/cesesteban/api-matba-data
