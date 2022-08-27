@@ -2,7 +2,8 @@
 #### I'm Full Stack Web Developer
 *******************************************************************************************************************************************
 #### EL CLUB EXCEL PROCESS
-Data process aplication React, Material UI, react-dropzone
+Data process aplication React, Material UI, react-dropzone.
+
 Process an excel with tickets and generate a monthly summary with the products and services provided by the professional. 
 
 DEMO: https://el-club.herokuapp.com/
