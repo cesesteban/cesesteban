@@ -6,8 +6,10 @@ Process an excel with tickets and generate a monthly summary with the products a
 
 DEMO: https://el-club.herokuapp.com/
 
-use this file for test: https://github.com/cesesteban/elClub_dataProcess/blob/master/public/El%20Club%20HairStudio%20(mes_a%C3%B1o)V1.1.1.xlsx?raw=true
+
 ![image](https://user-images.githubusercontent.com/61483278/187051445-bcfb0acc-a1ab-40ed-9c4b-955a2cd8d97b.png)
+
+use this file for test: https://github.com/cesesteban/elClub_dataProcess/blob/master/public/El%20Club%20HairStudio%20(mes_a%C3%B1o)V1.1.1.xlsx?raw=true
 
 Designed for EL CLUB
 *******************************************************************************************************************************************
