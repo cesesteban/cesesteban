@@ -6,7 +6,7 @@ Data process application React, Material UI and react-dropzone.
 
 Process an excel with tickets and generate a monthly summary with the products and services provided by the professional. 
 
-DEMO: https://el-club.herokuapp.com/
+DEMO: https://euphonious-trifle-e8f2f9.netlify.app/
 
 
 ![image](https://user-images.githubusercontent.com/61483278/187051445-bcfb0acc-a1ab-40ed-9c4b-955a2cd8d97b.png)
